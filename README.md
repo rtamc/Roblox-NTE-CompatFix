@@ -3,9 +3,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A simple registry toggle utility designed to resolve the **anti-cheat driver (`HtAntiCheatDriver`) conflict** between Roblox and NTE.
+⚠️ Error
+Third-party software is interfering with Roblox. If you're using software for exploiting or reverse-engineering, you'll need to uninstall it.
 
-Instead of manually opening Command Prompt or PowerShell to modify the registry every time, this lightweight executable lets you switch configurations with a single click.
+If you have NTE installed on your PC, there is a 98% chance this error is caused by a kernel-level conflict between Roblox's anti-cheat and NTE's anti-cheat driver (HtAntiCheatDriver).
+
+Stop wasting your time typing commands into the prompt every single time. Use this lightweight utility to fix the issue instantly with just a single click.
 
 ---
 
@@ -71,9 +74,13 @@ This project is licensed under the [MIT License](LICENSE) - feel free to modify 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-로블록스(Roblox)와 NTE를 번갈아 플레이할 때 발생하는 **안티치트 드라이버(`HtAntiCheatDriver`) 충돌 문제를 해결**하기 위한 레지스트리 토글 프로그램입니다. 
+⚠️ Error
+Third-party software is interfering with Roblox. If you're using software for exploiting or reverse-engineering, you'll need to uninstall it.
+(서드파티 소프트웨어가 Roblox를 방해하고 있습니다. 변조 및 리버스 엔지니어링용 소프트웨어를 사용 중이라면 삭제해야 합니다.)
 
-매번 명령프롬프트(CMD)나 파워쉘을 열어 레지스트리를 수정할 필요 없이, `.exe` 파일 실행 한 번으로 간편하게 설정을 전환할 수 있습니다.
+PC에 이환(NTE)이 설치되어 있다면, 이 오류의 원인은 98% 확률로 NTE의 안티치트 드라이버인 HtAntiCheatDriver와 Roblox 안티치트 간의 커널 레벨 충돌 때문입니다.
+귀찮게 매번 명령어를 입력하지 말고 이걸 사용해서 해결 해보세요.
+
 
 ---
 
