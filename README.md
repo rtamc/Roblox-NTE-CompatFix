@@ -48,11 +48,24 @@ This tool simply automates the following standard Windows PowerShell commands sa
 * Because it accesses a sensitive system registry path (`HKLM`), Windows Defender or other antivirus software may trigger a **False Positive warning**. 
 * To ensure full transparency and trust, **the complete source code is fully open and visible** in this repository. You are always welcome to review and compile it yourself.
 
+## 🛡️ Malware Scan Results
+
+(virustotal result: https://www.virustotal.com/gui/file/bbf8bcf9cac79d7e3d773c9a9685659107eb1f5016bd177c33e81590c5b6be6d/detection)
+
+(MetaDefender result: (https://metadefender.com/results/file/bzI2MDUyNnZuSVNiZ0FIMV9TQnQ0SmMtTWRs_mdaas))
+
+---
+
+## 📄 References 
+https://www.reddit.com/r/RobloxHelp/comments/1t26i9l/nte_roblox_fix/
+
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - feel free to modify and distribute.
+
+---
 
 # Roblox-NTE-CompatFix
 
@@ -103,7 +116,18 @@ This project is licensed under the [MIT License](LICENSE) - feel free to modify 
 *   하지만 Windows의 민감한 레지스트리 영역(`HKLM`)을 수정하기 때문에, Windows Defender나 타 안티바이러스 프로그램에서 **경고(오탐지)**를 띄울 수 있습니다. 
 *   불안하신 분들을 위해 본 저장소에 **모든 소스 코드를 투명하게 공개**하고 있으니 직접 검증 후 빌드하여 사용하셔도 좋습니다.
 
+## 🛡️악성 코드 검사 결과
+(virustotal 결과: https://www.virustotal.com/gui/file/bbf8bcf9cac79d7e3d773c9a9685659107eb1f5016bd177c33e81590c5b6be6d/detection)
+(MetaDefender 결과: (https://metadefender.com/results/file/bzI2MDUyNnZuSVNiZ0FIMV9TQnQ0SmMtTWRs_mdaas))
+
+
 ---
+
+## 📄 참고하였습니다 
+https://www.reddit.com/r/RobloxHelp/comments/1t26i9l/nte_roblox_fix/
+
+---
+
 
 ## 📄 라이선스
 
