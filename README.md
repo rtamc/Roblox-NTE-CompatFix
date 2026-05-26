@@ -86,12 +86,12 @@ This project is licensed under the [MIT License](LICENSE) - feel free to modify 
 
 이 프로그램은 시스템 내부적으로 아래의 Windows PowerShell 명령어를 안전하게 실행해 주는 역할만 수행합니다.
 
-*   **Roblox 플레이 시:**
-```powershell
+* ** 로블럭스:**
+    ```powershell
     Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\HtAntiCheatDriver" -Name "Start" -Value 4
     ```
-*   **NTE 플레이 시:**
-```powershell
+* ** 이환:**
+    ```powershell
     Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\HtAntiCheatDriver" -Name "Start" -Value 2
     ```
 
