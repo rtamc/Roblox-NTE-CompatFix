@@ -31,11 +31,11 @@ Instead of manually opening Command Prompt or PowerShell to modify the registry 
 
 This tool simply automates the following standard Windows PowerShell commands safely:
 
-* **To play Roblox:**
+* ** Roblox:**
     ```powershell
     Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\HtAntiCheatDriver" -Name "Start" -Value 4
     ```
-* **To play NTE:**
+* ** NTE:**
     ```powershell
     Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\HtAntiCheatDriver" -Name "Start" -Value 2
     ```
